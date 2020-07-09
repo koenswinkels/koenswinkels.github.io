@@ -20,5 +20,8 @@ https://medium.com/@codecodekoen
    ---
  
 Flu intensity data via Maurice de Hond.
+
 Covid-19 deaths data via Ruben du Burck.
+
+Any errors are most likely mine.
 
